@@ -6,7 +6,7 @@ def a():
 
 
 def b():
-
+  x = 1 + 1 
   print('b 函数')
 
 
